@@ -1,0 +1,29 @@
+.navbar{
+    background: #632898;
+    color: white;
+}
+
+h4{
+    font: 25px Times New Roman;
+    font-weight: bold;
+}
+
+h5{
+    font: 20px Times New Roman;
+    display: inline;
+}
+
+.container{
+    padding-top: 35px;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+button{
+    width:87px;
+    height:30px;
+    border-radius: 7px;
+    background: #632898;
+    color: white;
+    border-color: #632898;
+}
